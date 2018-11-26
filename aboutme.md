@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-- Cognitive Science undergrad
 
 Hi, I'm Josh Solis, A data scientist
+
+- Cognitive Science undergrad
 
 
 Studying Cognitive Science taught me to think outside of the box. I'd love to work with you to solve business problems using math and code.
